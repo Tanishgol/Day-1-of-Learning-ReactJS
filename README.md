@@ -36,12 +36,12 @@ Follow these steps to run the application locally:
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/Tanishgol/Blinkit-Clone.git
+git clone https://github.com/Tanishgol/Day-1-of-Learning-ReactJS.git
 ```
 
 ### 2. Navigate into the project directory
 ```bash
-cd Blinkit-Clone
+cd Day-1-of-Learning-ReactJS
 ```
 
 ### 3. Install all required dependencies
