@@ -1,0 +1,100 @@
+/* General reset and container settings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+/* Navbar Styling */
+.navbar {
+    background-color: #004080;
+    /* Blinkit-like blue */
+    color: white;
+    padding: 10px 20px;
+}
+
+.navbar .navbar-brand img {
+    height: 50px;
+}
+
+.navbar .nav-link {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+    color: #00bfff;
+}
+
+/* Search Bar Styling */
+.form-control {
+    max-width: 400px;
+}
+
+.btn-outline-success {
+    background-color: #00bfff;
+    border-color: #00bfff;
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.btn-outline-success:hover {
+    background-color: #0077ff;
+}
+
+/* Image Grid Styling */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.col-6,
+.col-sm-4,
+.col-md-3,
+.col-lg-2 {
+    margin: 5px;
+}
+
+.img-fluid {
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.img-fluid:hover {
+    transform: scale(1.1);
+}
+
+/* Responsive Breakpoints */
+@media (max-width: 768px) {
+    .col-sm-4 {
+        flex: 0 0 48%;
+    }
+}
+
+@media (max-width: 576px) {
+
+    .col-6,
+    .col-sm-4,
+    .col-md-3,
+    .col-lg-2 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+/* Footer Section - If you add one */
+footer {
+    margin-top: 40px;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
