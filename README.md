@@ -37,3 +37,19 @@ Follow these steps to run the application locally:
 ### 1. Clone this repository
 ```bash
 git clone https://github.com/Tanishgol/Blinkit-Clone.git
+```
+
+### 2. Navigate into the project directory
+```bash
+cd Blinkit-Clone
+```
+
+### 3. Install all required dependencies
+```bash
+npm install
+```
+
+### 4. Start the development server
+```bash
+npm run dev
+```
