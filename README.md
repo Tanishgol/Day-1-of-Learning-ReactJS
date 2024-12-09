@@ -36,4 +36,38 @@ Follow these steps to run the application locally:
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/Tanishgol/Blinkit-Clone.git
+git clone https://github.com/Tanishgol/Day-1-of-Learning-ReactJS.git
+```
+
+### 2. Navigate into the project directory
+```bash
+cd Day-1-of-Learning-ReactJS
+```
+
+### 3. Install all required dependencies
+```bash
+npm install
+```
+
+### 4. Start the development server
+```bash
+npm run dev
+```
+
+## 💡 How to Use
+1. Launch the application in your browser by running **http://localhost:5173/.**
+2. Interact with the Navbar and search bar to explore sections.
+3. Explore the dynamic image gallery showcasing categories like **Baby Care, Pet Care, Pharmacy, Dairy, and more.**
+
+---
+
+## Screenshots
+
+### Blinkit Clone using ReactJS
+__  
+![Home Page Screenshot](https://github.com/user-attachments/assets/bef6088a-621c-47e7-af37-93ee1c4e7356)
+
+---
+
+## 🙏 Special Thanks
+A special shoutout to my mentor **[Rushita Gondaliya](https://www.linkedin.com/in/rushita-gondaliya-588a0b258/)** for her guidance, support, and mentorship throughout this learning journey. 💡
