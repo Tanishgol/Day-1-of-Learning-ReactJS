@@ -64,7 +64,7 @@ npm run dev
 ## Screenshots
 
 ### Blinkit Clone using ReactJS
-__  
+_Home Page Screenshot_  
 ![Home Page Screenshot](https://github.com/user-attachments/assets/bef6088a-621c-47e7-af37-93ee1c4e7356)
 
 ---
