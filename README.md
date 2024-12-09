@@ -53,3 +53,18 @@ npm install
 ```bash
 npm run dev
 ```
+
+## 💡 How to Use
+1. Launch the application in your browser by running **http://localhost:5173/.**
+2. Interact with the Navbar and search bar to explore sections.
+3. Explore the dynamic image gallery showcasing categories like **Baby Care, Pet Care, Pharmacy, Dairy, and more.**
+
+---
+
+## 🙏 Special Thanks
+A special shoutout to my mentor **[Rushita Gondaliya](https://www.linkedin.com/in/rushita-gondaliya-588a0b258/)** for her guidance, support, and mentorship throughout this learning journey. 💡
+
+### 🔗 GitHub Repository
+
+You can explore the code here:
+GitHub Repository - **[Day-1-of-Learning-ReactJS](https://github.com/Tanishgol/Day-1-of-Learning-ReactJS)**
